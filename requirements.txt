@@ -8,7 +8,7 @@ scipy==1.18.1
 xgboost==3.4.1
 optuna==4.9.0
 
-# Optuna integrations and extras used in Section-08-Optuna
+# Optuna integrations and extras used in section-08-optuna
 optuna-integration==4.9.0
 torch==2.13.0
 optunahub==0.4.1
