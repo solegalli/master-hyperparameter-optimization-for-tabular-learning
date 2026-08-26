@@ -1,0 +1,16 @@
+# usual libraries
+joblib==1.5.3
+lightgbm==4.7.0
+matplotlib==3.11.1
+numpy==2.5.2
+pandas==3.0.5
+scikit-learn==1.9.0
+scipy==1.18.1
+xgboost==3.4.1
+optuna==4.9.0
+
+# Optuna integrations and extras used in Section-08-Optuna
+optuna-integration==4.9.0
+torch==2.13.0
+optunahub==0.4.1
+smac==2.4.0
