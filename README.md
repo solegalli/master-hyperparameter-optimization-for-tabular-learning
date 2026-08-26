@@ -24,21 +24,21 @@ This repository contains the practical notebooks for the **[Master Hyperparamete
 
 ## Course contents
 
-1. [**Hyperparameter optimization overview**](Section-01-Hyperparamter-Overview)
+1. [**Hyperparameter optimization overview**](section-01-hyperparameter-overview)
    - Response surfaces
    - Low effective dimensionality
 
-2. [**Metrics**](Section-02-Metrics)
+2. [**Metrics**](section-02-metrics)
    - Classification metrics: accuracy, precision, recall, ROC AUC, and more
    - Regression metrics: MSE, RMSE, R², and more
    - Custom metrics and optimization objectives
 
-3. [**Cross-validation**](Section-03-Cross-Validation)
+3. [**Cross-validation**](section-03-cross-validation)
    - K-fold, leave-one-out, leave-p-out, and stratified cross-validation
    - Grouped and time-series cross-validation
    - Nested cross-validation
 
-4. [**Basic search algorithms**](Section-04-Basic-Search-Algorithms)
+4. [**Basic search algorithms**](section-04-basic-search-algorithms)
    - Manual search
    - Grid search
    - Random search
@@ -48,11 +48,11 @@ This repository contains the practical notebooks for the **[Master Hyperparamete
    - Random forests and gradient-boosted models with SMAC
    - Tree-structured Parzen estimators (TPE)
 
-6. [**Multi-fidelity optimization**](Section-07-Multi-fidelity-Optimization)
+6. [**Multi-fidelity optimization**](section-07-multi-fidelity-optimization)
    - Successive halving
    - Resource allocation and early stopping
 
-7. [**Optimization with Optuna**](Section-08-Optuna)
+7. [**Optimization with Optuna**](section-08-optuna)
    - Framework-agnostic search
    - Search evaluation and visualization
    - Successive halving and Hyperband
