@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3.11%2B-success)
+![Python](https://img.shields.io/badge/python-3.12%2B-success)
 [![License: BSD](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/master-hyperparameter-optimisation-for-tabular-learning/blob/master/LICENSE)
 [![Powered by Train in Data](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 

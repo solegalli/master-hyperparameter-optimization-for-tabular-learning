@@ -1,5 +1,4 @@
-# usual libraries
-joblib==1.5.3
+# Core scientific stack
 lightgbm==4.7.0
 matplotlib==3.11.1
 numpy==2.5.2
@@ -13,4 +12,6 @@ optuna==4.9.0
 optuna-integration==4.9.0
 torch==2.13.0
 optunahub==0.4.1
+
+# At the time of writing, SMAC was not compatible with scikit-learn 1.9.0.
 smac==2.4.0
